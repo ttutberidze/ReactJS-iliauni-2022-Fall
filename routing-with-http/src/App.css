@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+  display: flex;
+}
+.activeLink {
+  color: lime;
+}
+.sidebar {
+  border: 1px solid #cccccc;
+  flex: 20%;
+}
+.main {
+  border: 1px solid #cccccc;
+  flex: 80%;
+}
+
+.user {
+  border: 1px solid #cccccc;
+}

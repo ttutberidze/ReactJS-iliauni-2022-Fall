@@ -1,9 +1,6 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/functional-app/node_modules
-/my-first-class-based-app/node_modules
-/routing-with-http/node_modules
 /node_modules
 /.pnp
 .pnp.js
