@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  display: flex;
+}
+.Post {
+  border-top: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc;
+  margin: 10px 0;
+}
+.sidebar {
+  border: 1px solid #cccccc;
+  flex: 0.2
+}
+.routes {
+  border: 1px solid #cccccc;
+  flex: 0.8
+}
+.myActiveClass {
+  background: lime;
+}
